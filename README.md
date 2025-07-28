@@ -5,7 +5,7 @@ Railway Reservation System is a console-based Java application that automates tr
 
 ---
 
-##🎯 Objective
+🎯 Objective
 
 To implement a user-friendly Railway Reservation System using Java that allows users to book and cancel tickets, view train schedules, and check seat availability,        while   enabling admins to manage trains and track bookings. The goal is to apply core programming concepts to solve real-world railway booking challenges efficiently.
 
