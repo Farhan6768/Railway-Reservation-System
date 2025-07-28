@@ -1,5 +1,5 @@
 # Railway-Reservation-System
-## 📄 Description
+📄 Description
 
 Railway Reservation System is a console-based Java application that automates train bookings. It supports User and Admin modes for ticketing, cancellation, schedule        viewing, seat checks, fare calculation, and PNR generation. Built using OOP, file handling, and exception handling, it stores data in text files for persistence.
 
